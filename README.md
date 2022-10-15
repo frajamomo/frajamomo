@@ -25,7 +25,7 @@
   </a>
 </p>
 
- ### 👉 Software & Tools
+ ### 👉 Software & Tools:
  
 <p>
  &emsp;
@@ -36,14 +36,14 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JCAT" src="https://img.shields.io/badge/JCAT-%20-%20.svg?logo=&logoColor=white"></a>
-
 </p>
+
 ### 👉 Connect with me ☕ :
+
 <br>
 
-[![@morenofranciscojaviermoreno](https://img.icons8.com/fluency/48/000000/instagram-new.png "@morenofranciscojaviermoreno")](https://www.instagram.com/morenofranciscojaviermoreno/) [![@francisco-javier-moreno-moreno-7757349](https://img.icons8.com/fluency/48/000000/linkedin.png "@francisco-javier-moreno-moreno-7757349")](https://www.linkedin.com/in/francisco-javier-moreno-moreno-7757349/) [![@frajamomo](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@frajamomo")](https://twitter.com/) [![@frajamomo@hotmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@frajamomo@hotmail.com")](frajamomo@hotmail.com)
+ &emsp;
+  [![@morenofranciscojaviermoreno](https://img.icons8.com/fluency/48/000000/instagram-new.png "@morenofranciscojaviermoreno")](https://www.instagram.com/morenofranciscojaviermoreno/) [![@francisco-javier-moreno-moreno-7757349](https://img.icons8.com/fluency/48/000000/linkedin.png "@francisco-javier-moreno-moreno-7757349")](https://www.linkedin.com/in/francisco-javier-moreno-moreno-7757349/) [![@frajamomo](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@frajamomo")](https://twitter.com/) [![mailto:frajamomo@hotmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "mailto:frajamomo@hotmail.com")](frajamomo@hotmail.com)
 <br>
 <!--
 **frajamomo/frajamomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
