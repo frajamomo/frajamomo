@@ -10,13 +10,13 @@
 
 ### 👉 Programming languages:
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
+<p align="left">
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
   &emsp;
@@ -26,7 +26,7 @@
 </p>
 
  ### 👉 Software & Tools:
- 
+
 <p>
  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
